@@ -1,0 +1,18 @@
+My token
+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
+
+cd (path) => Go to any folders
+mkdir (folder name) = create new folder
+git init => initialize git to use in particular folder
+
+git add (file name) => add to temporarily area(not commit yet)
+git add . => add all files
+
+git status => check the status of git folder(could be new file warning)
+git commit -m "(comment for commit)" 
+git checkout -b (name of new branch) => make new branch
+git checkout (branch) => go to particular branch
+
+
+
+
